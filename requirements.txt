@@ -1,4 +1,6 @@
-pandas
-numpy
-seaborn
+pandas==2.2.2
+numpy==2.0.2
 -e .
+
+#incase for setuptools verion installation problem 
+#use this pip install setuptools==65.5.0  # Replace with the version you need

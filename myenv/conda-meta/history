@@ -17,3 +17,12 @@
 +defaults/win-64::xz-5.4.6-h8cc25b3_1
 +defaults/win-64::zlib-1.2.13-h8cc25b3_1
 # update specs: ['python==3.10']
+==> 2024-09-01 18:26:45 <==
+# cmd: C:\Users\kafub\anaconda3\Scripts\conda-script.py install setuptools
+# conda version: 24.7.1
+-defaults/win-64::openssl-1.1.1w-h2bbff1b_0
+-defaults/win-64::python-3.10.0-h96c0403_3
++defaults/win-64::openssl-3.0.14-h827c3e9_0
++defaults/win-64::python-3.10.14-he1021f5_1
+# update specs: ['setuptools']
+# neutered specs: ['python==3.10.14']
