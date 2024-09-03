@@ -1,6 +1,11 @@
 pandas==2.2.2
 numpy==2.0.2
--e .
+seaborn==0.13.2
+matplotlib==3.9.2
+scikit-learn==1.5.1
+catboost==1.2.5
+xgboost==2.1.1
+#-e .
 
 #incase for setuptools verion installation problem 
 #use this pip install setuptools==65.5.0  # Replace with the version you need
