@@ -1,9 +1,8 @@
 pandas==2.2.2
-numpy==2.0.2
+numpy
 seaborn==0.13.2
 matplotlib==3.9.2
 scikit-learn==1.5.1
-catboost==1.2.5
 xgboost==2.1.1
 dill
 #-e .
